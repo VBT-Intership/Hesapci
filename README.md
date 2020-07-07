@@ -1,2 +1,3 @@
-# Hesapci
-Onur Osman Güle - Hesap Makinesi - Hesapci
+# Hesapçı - Hesap Makinesi
+
+Gece modu özelliği ile çok zorlu işlemleri hesaplayabilen Hesapçı.
